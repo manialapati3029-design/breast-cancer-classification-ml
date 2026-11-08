@@ -1,6 +1,6 @@
 # Breast Cancer Diagnosis – Comparison of Five Classification Models
 
-**Live app:** <PASTE YOUR STREAMLIT APP LINK HERE>
+**Live app:** https://breast-cancer-classification-ml-manialapati3029.streamlit.app/
 
 ## a. Problem statement
 
@@ -27,7 +27,7 @@ Note: scikit-learn encodes benign as 1. The training script flips this so that m
 
 ## c. GitHub repository link
 
-<PASTE YOUR GITHUB REPOSITORY LINK HERE>
+https://github.com/manialapati3029-design/breast-cancer-classification-ml/tree/develop
 
 Repository structure:
 
